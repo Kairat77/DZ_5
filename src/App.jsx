@@ -9,7 +9,11 @@ function App() {
 
   return (
     <div className="App">
-      <PostList />
+       {/* <PostList />  */}
+       {/* <Counter/> */}
+      {/* <SimpleForm/>  */}
+      <Toggles/>
+      
     </div>
   )
 }
